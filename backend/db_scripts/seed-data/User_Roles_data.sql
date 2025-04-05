@@ -1,4 +1,4 @@
-INSERT INTO UserRoles(role_name)
+INSERT INTO user_roles(role_name)
 VALUES
 	('Admin'),
 	('Doctor'),
